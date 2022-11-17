@@ -9,7 +9,7 @@ In this following Task .I have implement different Machine Learning moidels
 3. train_test_method
 4. Bulding different models and fits the best 
 5. test on the new data
-6. saveing into the pickel 
+6. saving into the pickel 
 7. creating the pipeline 
 
 In this Task i have completed as min of 85% by using the fine tunning for the Bagging 
